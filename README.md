@@ -64,12 +64,5 @@ src/
 └── main.jsx             # React DOM rendering
 ```
 
-## 🎨 Design Highlights
-
-During development, special attention was paid to:
-- Removing generic CSS properties (like `min-height: 100vh` on the hero) in favor of explicit padding to match the compact, professional feel of the templates.
-- Implementing strict grid column configurations (`1fr 1fr`) to ensure cards in the Services and Process sections maintain their intended tall, spacious proportions.
-- Accurately reproducing exact hex colors (e.g., `#1a1a6e` for typography, `#7C3AED` for accents) and complex multi-stop linear gradients.
-
 ---
 *Developed as a UI/UX faithful clone project.*
